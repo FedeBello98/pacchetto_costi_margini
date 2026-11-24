@@ -1,0 +1,17 @@
+PACCHETTO MODELLO COSTI E MARGINI (5 giorni lavorativi, prezzo fisso)
+
+Perimetro incluso
+Analisi su una singola linea di prodotto o famiglia (primi 40 SKU), su 1 magazzino o canale principale, relativa agli ultimi 3 mesi di dati. Include ricavi, costi diretti, incidenza di trasporti e scorte buffer su quel perimetro.
+
+Fuori perimetro
+Restano fuori modifiche al gestionale o all'ERP, contabilità fiscale completa e analisi su tutto lo storico aziendale.
+Restano fuori integrazioni automatiche con sistemi esterni e analisi su più magazzini o cataloghi completi nello stesso pacchetto.
+
+Cosa consegno
+1. Tabella per SKUvoce con ricavi, costi diretti, incidenza trasportiscorte, margine lordo e margine netto stimato.
+2. Classifica dei codici o voci che generano margine positivo e di quelli che erodono margine.
+3. Simulazione di sensibilità su 1 o 2 variabili chiave (es. costo trasporto o prezzosconto).
+4. Sintesi con 3 azioni pratiche e segnalazione esplicita dei buchi o delle stime usate dove mancano dati.
+
+Cosa serve per partire
+Estrazioni Excel o CSV (anche non formattate o con codicinomi anonimizzati) di venditericavi, costi diretti e, se disponibili, costi di trasporto e giacenzebuffer degli ultimi 3 mesi.
